@@ -1,0 +1,92 @@
+body
+{
+    background: #cccccc;
+}
+
+#adminWrapper
+{
+    float: left;
+    width: 80%;
+    height: auto;
+    margin: 0px 10%;
+}
+#adminWrapper header
+{
+    float: left;
+    width: 100%;
+    height: auto;
+    /*background: #ffffff;*/
+    margin: 0px 0px 1px 0px;
+    text-align: center;
+}
+
+#adminWrapper header #admin_logo{
+    float: left;
+    width: 20%;
+    height: 100%;
+    background: #ffffff;
+    margin:  0px 0px 0px 0px;
+}
+#adminWrapper header #admin_banner{
+    float: left;
+    width: 79.8%;
+    height: 100%;
+    background: #ffffff;
+    margin:  0px 0px 0px .2%;
+    
+}
+#adminWrapper nav
+{
+    float: left;
+    width: 100%;
+    height: 45px;
+    background: #ffffff;
+    margin: 0px 0px 1px 0px;
+}
+#adminWrapper .nav_btn{
+    float: left;
+    width: auto;
+    height: auto;
+    margin: 5px 10px 5px 10px;
+    background: activeborder;;
+}
+#adminWrapper section{
+    float: left;
+    width: 100%;
+    height: auto;
+    margin: 0px 0px 1px 0px;
+}
+#adminWrapper section aside{
+    float: left;
+    width: 20%;
+    height: auto;
+    margin: 0px .2% 0px 0px;
+    background: #ffffff;
+}
+#adminWrapper section #content{
+    float: left;
+    width: 79.8%;
+    height: auto;
+    margin: 0px 0px 0px 0px;
+    background: #ffffff;
+}
+section #content #inventory_list
+{
+    float: left;
+    width: 100%;
+    height: auto;
+}
+section #content #inventory_form
+{
+    float: left;
+    width: 100%;
+    height: auto;
+}
+#adminWrapper footer{
+    float: left;
+    width: 100%;
+    height: 80px;
+    margin: 1px 0px 0px 0px;
+    background: #ffffff;
+    text-align: center;
+}
